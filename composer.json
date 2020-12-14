@@ -1,5 +1,5 @@
 {
-    "name": "ovh/ovh",
+    "name": "simonecosci/php-ovh-cd",
     "description": "Wrapper for OVH APIs",
     "license": "BSD-3-Clause",
     "require": {
